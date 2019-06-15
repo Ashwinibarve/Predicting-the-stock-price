@@ -1,1 +1,1 @@
-# Pythone-code-for-capstone-project
+This is the project for prrdicting the stock price
