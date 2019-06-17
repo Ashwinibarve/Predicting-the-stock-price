@@ -1,0 +1,18 @@
+Project title  : Prediction of Stock  prices.
+ Stock market is an important part of the economy of any country. The stock market plays a pivotal role in the growth of the industry
+ and commerce of the country that eventually affects the economy of country to a great extent. The stock market is important from both 
+ the industries point of view as well as investors point of view. It is easy to see that not only is data science used in stock analysis 
+ in most instances it is the process of actually analyzing the stock. And so everyone is interested to predict the stock movements of
+ their own organizations. 
+Problem :
+Prediction of the stock market is one of the most difficult things to do. There are so many factors involved in the prediction- physical
+factors vs. physiological, rational, and irrational behavior etc. All these aspects combine to make share prices volatile and difficult
+to predict with a high degree of accuracy. 
+Solution :
+In this project I am going to build a model to predict the movement of the stock price. To solve this problem, I am going to implement a 
+mix of machine learning algorithms to predict the future stock price of the company, starting with linear regression, K- nearest neighbors
+and then move on to Auto ARIMA, Prophet.
+Dataset :
+In this project I will work with historical data about the stock prices of the publicly listed companies.
+For this purpose I will be using dataset from Kaggle : Huge stock market Dataset.
+This dataset will be analyzed using python.
