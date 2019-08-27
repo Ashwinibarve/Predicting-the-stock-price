@@ -1,1 +1,1 @@
-This is the project for prrdicting the stock price
+This is the project for predicting the stock price
